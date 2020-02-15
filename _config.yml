@@ -13,6 +13,26 @@ logos:
     optimized: /images/jeliboncuk.png
 palette: default
 palettes:
+  jelibon:
+    sass:
+      active: '#FF5576'
+      active_dark: '#9D2235'
+      active_light: '#FFA3B5'
+      active_medium: '#E0004D'
+      bg_image_cart_fallback: /images/header.jpg
+      bg_image_cart_optimized: /images/cart-bg.webp
+      bg_image_primary_fallback: /images/header.jpg
+      bg_image_primary_optimized: /images/header.webp
+      bg_image_product_fallback: /images/leaf.svg
+      bg_image_product_optimized: /images/leaf.svg
+      bg_image_secondary_fallback: /images/leaf-light-grey.svg
+      bg_image_secondary_optimized: /images/leaf-light-grey.svg
+      dark: '#384647'
+      dark_grey: '#273132'
+      default: '#FFFFFF'
+      light: '#F0F0F0'
+      light_grey: '#6B797A'
+      medium: '#6B797A'
   default:
     sass:
       active: '#88DD9B'
