@@ -7,6 +7,13 @@ description: >-
 price: '50'
 images:
   default:
+    original:
+      fallback: /images/karisik.jpg
+    thumbnail:
+      fallback: /images/karisik.jpg
+  featured:
+    original:
+      fallback: /images/karisik.jpg
     thumbnail:
       fallback: /images/karisik.jpg
 featured: false
