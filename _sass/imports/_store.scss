@@ -70,7 +70,7 @@
     &__nav-item {
         padding: 15px 20px;
         margin: 0;
-        text-transform: uppercase;
+        //text-transform: uppercase;
         font-size: $font_size_small;
         white-space: nowrap;
         @include smaller-than-tablet {
