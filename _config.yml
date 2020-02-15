@@ -19,10 +19,10 @@ palettes:
       active_dark: '#9D2235'
       active_light: '#FFA3B5'
       active_medium: '#E0004D'
-      bg_image_cart_fallback: /images/header.jpg
+      bg_image_cart_fallback: /images/hand-holding-candy.jpg
       bg_image_cart_optimized: /images/cart-bg.webp
-      bg_image_primary_fallback: /images/header.jpg
-      bg_image_primary_optimized: /images/header.webp
+      bg_image_primary_fallback: /images/hand-holding-candy.jpg
+      bg_image_primary_optimized: /images/hand-holding-candy.webp
       bg_image_product_fallback: /images/leaf.svg
       bg_image_product_optimized: /images/leaf.svg
       bg_image_secondary_fallback: /images/leaf-light-grey.svg
@@ -35,7 +35,7 @@ palettes:
       medium: '#6B797A'
   default:
     sass:
-      active: '#FF5576'
+      active: '#88DD9B'
       active_dark: '#547567'
       active_light: '#C0FDB6'
       active_medium: '#5C9174'
