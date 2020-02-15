@@ -1,9 +1,10 @@
 ---
-slug: bigplants
-title: Big plants
+slug: jelibon
+title: Jelibonlar
 section: Store
 menus:
   categories:
-    weight: 7
+    weight: 1
 layout: category
 ---
+

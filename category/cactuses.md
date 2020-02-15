@@ -1,9 +1,10 @@
 ---
-slug: cactuses
-title: Cactuses
+slug: cikolatalar
+title: Çikolatalar
 section: Store
 menus:
   categories:
-    weight: 6
+    weight: 2
 layout: category
 ---
+
