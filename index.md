@@ -1,9 +1,6 @@
 ---
-title: Home
+title: Anasayfa
 isHome: true
 layout: index
 ---
-
-# Real, beautiful plants right to your door
-
- 
+# Bir başka jelibon
