@@ -11,7 +11,7 @@ logos:
   light:
     fallback: /images/jeliboncuk.png
     optimized: /images/jeliboncuk.png
-palette: default
+palette: jelibon
 palettes:
   jelibon:
     sass:
