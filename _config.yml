@@ -6,11 +6,11 @@ snipcart_css: 'https://cdn.snipcart.com/themes/v3.0.4/default/snipcart.css'
 snipcart_api_key: ''
 logos:
   dark:
-    fallback: images/logo.svg
-    optimized: images/logo.svg
+    fallback: /images/jeliboncuk.png
+    optimized: /images/jeliboncuk.png
   light:
-    fallback: images/logo-white.svg
-    optimized: images/logo-white.svg
+    fallback: /images/jeliboncuk.png
+    optimized: /images/jeliboncuk.png
 palette: default
 palettes:
   default:
