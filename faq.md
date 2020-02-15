@@ -14,7 +14,7 @@ questions:
       Gün içi teslimat seçeneğini de kullanabilirsiniz, acilen jelibon yedirmek
       istiyorsanız.
     question: Teslimat kaç günde yapılıyor?
-  - answer: Zaten o parayı içkiye sigaraya verecektiniz.
+  - answer: Zaten o parayı içkiye sigaraya israf edecektin.
     question: Pahalı değil mi?
   - answer: Ahahahaha. Hayır.
     question: Vegan mı?
